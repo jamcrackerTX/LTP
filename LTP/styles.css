@@ -1,0 +1,19 @@
+﻿body {
+}
+
+
+.jumbotron {
+    margin-top: 80px;
+}
+
+.addPerson, .searchPerson {
+    margin: 20px 0 10px 0;
+}
+
+#AddPersonContainer { 
+}
+
+.addPersonRow {
+    padding: 10px;
+    
+}
